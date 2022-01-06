@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "110389539656",
+    "project_id": "sustam-doctor-app",
+    "storage_bucket": "sustam-doctor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110389539656:android:7ab05c7929c5d07da8397d",
+        "android_client_info": {
+          "package_name": "com.example.srijan_sustam_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110389539656-bbi13m89od1tj29dtabjn5jc514mpubq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.srijan_sustam_design",
+            "certificate_hash": "d2b4501185e8ef07415480a3c51b0bc785147068"
+          }
+        },
+        {
+          "client_id": "110389539656-hin6pcsspsnm02gm8s2oqqseq00orde2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITzGUf7bYwus84x2hlbploCvShIZAUAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110389539656-hin6pcsspsnm02gm8s2oqqseq00orde2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
